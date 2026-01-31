@@ -3,3 +3,10 @@
 *.pdf
 !/test/pdf/*/expect.pdf
 /pkg/
+
+# Node.js
+/node_modules/
+/package-lock.json
+
+# Scraper cache
+/.context/

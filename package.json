@@ -1,0 +1,20 @@
+{
+  "name": "seoul",
+  "version": "1.0.0",
+  "description": "[![Test](https://github.com/hidakatsuya/prawn-emoji/actions/workflows/test.yml/badge.svg)](https://github.com/hidakatsuya/prawn-emoji/actions/workflows/test.yml) [![Gem Version](https://badge.fury.io/rb/prawn-emoji.svg)](https://badge.fury.io/rb/prawn-emoji)",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "playwright": "^1.58.1"
+  }
+}
